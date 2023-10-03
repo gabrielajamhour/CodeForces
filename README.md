@@ -1,2 +1,2 @@
 # ProblemasdeCodeForces
-Resolución de problemas de CodeForce
+Resolución de problemas de CodeForces
