@@ -5,6 +5,7 @@ Você tem uma matriz 5 × 5 , composta por 24 zeros e um único número um. Vamo
 
 Você acha que uma matriz fica bonita se o único número um da matriz estiver localizado no meio (na célula que está na interseção da terceira linha e da terceira coluna). Conte o número mínimo de movimentos necessários para deixar a matriz bonita.
 
+   
 Input  
 A entrada consiste em cinco linhas, cada linha contém cinco inteiros: o j -ésimo inteiro na i -ésima linha da entrada representa o elemento da matriz que está localizado na interseção da i -ésima linha e da j -ésima coluna. É garantido que a matriz consiste em 24 zeros e um único número um.
 
