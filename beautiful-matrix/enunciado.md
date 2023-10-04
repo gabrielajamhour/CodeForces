@@ -4,8 +4,8 @@ Troque duas linhas da matriz vizinhas, ou seja, linhas com índices i e i  + 1
 Troque duas colunas de matrizes vizinhas, ou seja, colunas com índices j e j  + 1 por algum inteiro j (1 ≤  j  < 5) .
 Você acha que uma matriz fica bonita se o único número um da matriz estiver localizado no meio (na célula que está na interseção da terceira linha e da terceira coluna). Conte o número mínimo de movimentos necessários para deixar a matriz bonita.
 
-Input
+Input  
 A entrada consiste em cinco linhas, cada linha contém cinco inteiros: o j -ésimo inteiro na i -ésima linha da entrada representa o elemento da matriz que está localizado na interseção da i -ésima linha e da j -ésima coluna. É garantido que a matriz consiste em 24 zeros e um único número um.
 
-Output
+Output  
 Imprima um único número inteiro – o número mínimo de movimentos necessários para deixar a matriz bonita.
