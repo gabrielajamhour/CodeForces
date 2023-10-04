@@ -1,16 +1,3 @@
-""" Enunciado 
-Você está organizando um concurso em que os n participantes avançam para a próxima rodada com base em suas pontuações.
-Para avançar, um competidor deve ter uma pontuação igual ou superior à do k-ésimo colocado, desde que sua pontuação seja positiva.
-Você já conhece as pontuações dos participantes.
-Agora, seu objetivo é calcular quantos participantes avançarão para a próxima rodada com base nas regras do concurso.
-
-Input
-> Dois inteiros: n e k (1 ≤ k ≤ n ≤ 50), separados por um espaço.
-> Uma sequência de n inteiros separados por espaços, representando as pontuações dos participantes (0 ≤ ai ≤ 100), onde ai é a pontuação do participante que ficou em i-ésimo lugar.
-
-Output:
-> Número de participantes que avançam para a próxima rodada. """
-
 n_k = str(input()) # O usuário deve digitar n e k, separados por um espaço
 # Como uma string não pode ser comparada com um valor inteiro em uma lista, transformamos em int
 
