@@ -1,5 +1,4 @@
-“O competidor que obtiver pontuação igual ou superior à pontuação do k -ésimo colocado avançará para a próxima rodada, desde que obtenha pontuação positiva ...” - trecho das regras do concurso.  
-Um total de n participantes participaram do concurso ( n  ≥  k ), e você já conhece suas pontuações. Calcule quantos participantes avançarão para a próxima rodada.
+“O competidor que obtiver pontuação igual ou superior à pontuação do k -ésimo colocado avançará para a próxima rodada, desde que obtenha pontuação positiva ...” - trecho das regras do concurso. Um total de n participantes participaram do concurso ( n  ≥  k ), e você já conhece suas pontuações. Calcule quantos participantes avançarão para a próxima rodada.
 
 Input  
 A primeira linha da entrada contém dois inteiros n e k ( 1 ≤  k  ≤  n  ≤ 50 ) separados por um único espaço.  
