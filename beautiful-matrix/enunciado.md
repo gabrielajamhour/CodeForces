@@ -1,3 +1,5 @@
+ENUNCIADO  
+
 Você tem uma matriz 5 × 5 , composta por 24 zeros e um único número um. Vamos indexar as linhas da matriz por números de 1 a 5 de cima para baixo, vamos indexar as colunas da matriz por números de 1 a 5 da esquerda para a direita. Em um movimento, você pode aplicar uma das duas transformações a seguir à matriz:
 
 1. Troque duas linhas da matriz vizinhas, ou seja, linhas com índices i e i  + 1 por algum inteiro i (1 ≤  i  < 5)
