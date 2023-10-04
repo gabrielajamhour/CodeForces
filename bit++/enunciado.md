@@ -12,12 +12,12 @@ Um programa em Bit++ é uma sequência de instruções, cada uma delas precisa s
 Você recebe um programa em linguagem Bit++. O valor inicial de x é 0 . Execute o programa e encontre seu valor final (o valor da variável quando este programa é executado).  
 
 
-Entrada  
+Input  
 
 A primeira linha contém um único inteiro n (1 ≤  n  ≤ 150) — o número de instruções no programa.
 
 As próximas n linhas contêm uma instrução cada. Cada instrução contém exatamente uma operação ( ++ ou -- ) e exatamente uma variável x (denotada como letra « X »). Portanto, não existem declarações vazias. A operação e a variável podem ser escritas em qualquer ordem.
 
-Saída  
+Output  
 
 Imprima um único número inteiro - o valor final de x .
