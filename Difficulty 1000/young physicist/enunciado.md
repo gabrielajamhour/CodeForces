@@ -1,0 +1,7 @@
+Um cara chamado Vasya está cursando a última série do ensino médio. Um dia, Vasya decidiu assistir a uma partida de seu time de hóquei favorito. E, como o menino gosta muito de hóquei, ainda mais do que de física, esqueceu de fazer a lição de casa. Especificamente, ele se esqueceu de completar suas tarefas de física. No dia seguinte, a professora ficou muito zangada com Vasya e decidiu dar-lhe uma lição. Ele deu ao estudante preguiçoso uma tarefa aparentemente fácil: você recebe um corpo ocioso no espaço e as forças que o afetam. O corpo pode ser considerado como um ponto material com coordenadas (0; 0; 0). Vasya só teve que responder se está em equilíbrio. "Pedaço de bolo" - pensou Vasya, só precisamos verificar se a soma de todos os vetores é igual a 0. Então, Vasya começou a resolver o problema. Mais tarde, porém, descobriu-se que pode haver muitas e muitas dessas forças, e Vasya não consegue sobreviver sem a sua ajuda. Ajudem-no. Escreva um programa que determine se um corpo está ocioso ou se movendo pelos vetores de forças fornecidos.
+
+Inout  
+A primeira linha contém um inteiro positivo n ( 1 ≤  n  ≤ 100 ), depois seguem n linhas contendo três inteiros cada: a coordenada x i , a coordenada y i e a coordenada z i do vetor força, aplicada ao corpo (  - 100 ≤  x i ,  y i ,  z i  ≤ 100 ).
+
+Output  
+Imprima a palavra “ SIM ” se o corpo estiver em equilíbrio, ou a palavra “ NÃO ” se não estiver.
