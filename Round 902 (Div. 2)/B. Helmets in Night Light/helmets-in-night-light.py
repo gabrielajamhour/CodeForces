@@ -2,7 +2,7 @@ t = int(input())
 
 for _ in range(t):
     n, p = map(int, input().split())
-    # Define as variáveis como int e as separa em uma lista
+    # A função map() é uma função embutida que permite aplicar uma função a todos os elementos de um ou mais iteráveis, como listas
     
     # Lê-se os valores de a e b
     a = list(map(int, input().split()))
@@ -16,7 +16,8 @@ for _ in range(t):
     
     # Inicializa-se o custo total com p
     res = p
-    # Inicializa-se o número total de residentes notificados com 1
+    # Inicializa-se o número total de residentes notificados com 1 
+    
     reached = 1
     
     j = 0
@@ -36,5 +37,5 @@ for _ in range(t):
                 res += vec[j][0] * vec[j][1]
                 reached += vec[j][1]
         j += 1
-    
-    print(res)
+
+    print(res)
