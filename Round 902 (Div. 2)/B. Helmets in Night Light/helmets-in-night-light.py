@@ -17,7 +17,6 @@ for _ in range(t):
     # Inicializa-se o custo total com p
     res = p
     # Inicializa-se o número total de residentes notificados com 1 
-    
     reached = 1
     
     j = 0
