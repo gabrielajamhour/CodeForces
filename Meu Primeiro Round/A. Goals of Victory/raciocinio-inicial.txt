@@ -14,20 +14,12 @@ Exemplo com 4 times
 6) Time 3 vs Time 4: 5 - 0
 
 Lógica: gol(time)_(partida)
-* gol1_1 = 1
-
-# gol2_1 = 2
-
-* gol1_2 = 3
-
-# gol3_2 = 0
-
-* gol1_3 = 3
-
-# gol4_3 = 2
-
-
-
+gol1_1 = 1 (*)
+gol2_1 = 2 (#)
+gol1_2 = 3 (*)
+gol3_2 = 0 (#)
+gol1_3 = 3 (*)
+gol4_3 = 2 (#)
 gol2_4 = 1
 gol3_4 = 4
 gol2_5 = 1
