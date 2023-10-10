@@ -1,5 +1,4 @@
 Eu participei desse Round em uma sala junto com o Leonardo, que é o Top 1 da universidade no ranking do CodeForces. Ou seja, ele é um programador muito mais experiente do que eu e tem sacadas muito mais rápidas. Por isso, o único problema resolvido e enviado dentro do tempo da competição contou com o raciocínio rápido dele.
-
 Por isso, esse problema foi resolvido e enviado em poucos minutos. Tenho consciência de que se eu tivesse resolvido ele completamente sozinha eu teria demorado bem mais, mas acho válido pensar que não era um problema impossível para se resolver sozinha.
 
 
