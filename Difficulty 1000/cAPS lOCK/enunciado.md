@@ -7,7 +7,7 @@ Vamos considerar que uma palavra foi digitada com a tecla Caps Lock acidentalmen
 - ou contém apenas letras maiúsculas;
 - ou todas as letras, exceto a primeira, são maiúsculas.
   
-Neste caso devemos alterar automaticamente a caixa de todas as letras. Por exemplo, a caixa das letras que formam as palavras “ hELLO ”, “ HTTP ”, “ z ” deve ser alterada.
+Neste caso devemos alterar automaticamente a caixa de todas as letras. Por exemplo, a caixa das letras que formam as palavras “hELLO”, “HTTP”, “z” deve ser alterada.
 
 Escreva um programa que aplique a regra mencionada acima. Se a regra não puder ser aplicada, o programa deverá deixar a palavra inalterada.
 
