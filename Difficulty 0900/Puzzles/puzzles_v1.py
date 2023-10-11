@@ -20,5 +20,5 @@ else:
 '''
 Esse código teria funcionado. No entanto, ele não considera que existe outra combinação de 4 números subsequentes
 dentro da lista em que a diferença entre o primeiro e o quarto desse subconjunto seja menor que a diferença entre 
-primeiro e o quarto número do subconjunto dos 4 menores números da lista.
+primeiro e o quarto número do subconjunto dos 4 menores números da lista (Test Case 7 do problema no CodeForces).
 '''
