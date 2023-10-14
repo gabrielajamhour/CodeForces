@@ -13,6 +13,6 @@ while x > 0:
         x -= 2
     else:
         x -= 1
-    steps += 1
+    passos += 1
 
 print(passos)
