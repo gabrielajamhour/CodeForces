@@ -2,7 +2,7 @@ test_cases = int(input())
 lista = []
 
 for _ in range(test_cases):
-    # A função map() é uma função embutida que permite aplicar uma função a todos os elementos de um ou mais iteráveis, como listas
+    # A função map() é uma função embutida que permite aplicar uma função a todos os elementos de um ou mais iteráveis, como por exemplo listas
     # Dois números separados por um espaço de string para int separadamente
     n, p = map(int, input().split())
 
