@@ -4,10 +4,9 @@ Petya estuda em uma escola e adora matemática. Sua turma tem estudado expressõ
 1*(2+3)=5  
 1*2*3=6  
 (1+2)*3=9  
+
 Observe que você pode inserir sinais de operação apenas entre a e b , e entre b e c , ou seja, não é possível trocar números inteiros. Por exemplo, na amostra fornecida você não pode obter a expressão (1+3)*2.
-
 É fácil ver que o valor máximo que você pode obter é 9.
-
 Sua tarefa é: dados a , b e c imprimir o valor máximo que você pode obter.
 
 Input  
