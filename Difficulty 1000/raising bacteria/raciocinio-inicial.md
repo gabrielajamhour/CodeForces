@@ -6,6 +6,7 @@ Ideia
 - Senão, dividí-lo por 2 elevado à maior potência possível somado ao resto da divisão
 
 ** Test 1 **
+
 num_bacterias = 5
 
 Colocando 1 bactéria:
@@ -23,6 +24,7 @@ Output: 2 bactérias
 
 
 ** Test 2 **
+
 num_bacterias = 8
 
 Colocando 1 bactéria:
@@ -39,6 +41,7 @@ Output: 1
 
 
 ** Test 3 **
+
 num_bacterias = 536.870.911
 
 Colocando 1 bactéria:
