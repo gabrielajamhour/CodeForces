@@ -1,17 +1,13 @@
-import math
+num_bacterias = int(input())
 
-num_bacteria = int(input())
-
-bacteria_count = int(math.ceil(math.log(num_bacteria, 2)))
+bacteria_count = bin(num_bacterias).count('1')
 
 print(bacteria_count)
 
 '''
-O número mínimo de bactérias que você precisa colocar na caixa está relacionado à ideia de divisão exponencial,
-onde todas as bactérias se dividem em duas a cada noite. Isso é semelhante a calcular a quantidade de vezes que
-você pode dividir 'num_bacteria' por 2 até que o valor chegue à 1. 
-
-Se você pensar sobre isso, isso é essencialmente o logaritmo na base 2 de 'num_bacteria'. O logaritmo na base 2
-nos dirá quantas vezes podemos dividir 'num_bacteria' por 2 até chegar a 1. O arredondamento para cima (math.ceil)
-é necessário porque você não pode ter uma fração de uma bactéria. 
+No contexto do problema, você está tentando alcançar um determinado número de bactérias na caixa, representado por
+'num_bacterias'. A ideia é que, a cada noite, todas as bactérias na caixa se dividem em duas. Portanto, para obter
+exatamente 'num_bacterias' bactérias na caixa, você precisa adicionar bactérias de forma que, após uma série de divisões 
+noturnas, o número total de bactérias seja igual a 'num_bacterias'. Para fazer isso, você precisa colocar um número
+de bactérias na caixa igual ao número de bits definidos na representação binária de 'num_bacterias'.
 '''
