@@ -1,0 +1,54 @@
+A cada manhã, eu posso colocar qualquer número de bactérias na caixa
+Quero que o número que eu colocar de bactérias na caixa durante os dias seja mínimo
+
+Ideia
+- Se o número fornecido for igual a 2**x, em que x pertence aos naturais, printar "1"
+- Senão, dividí-lo por 2 elevado à maior potência possível somado ao resto da divisão
+
+** Test 1 **
+num_bacterias = 5
+
+Colocando 1 bactéria:
+dia 1: x = 1
+dia 2: x = 2
+dia 3: x = 4 
+dia 4: x = 8 (maior que num_bacteria fornecido, parar aqui)
+
+> No dia 1 colocar 2 bactérias e esperar 1 dia  -> num_bacterias = 4
+> No dia 2 colocar a bactéria faltante
+
+num_bacterias = 2**2 + 1
+
+Output: 2 bactérias
+
+
+** Test 2 **
+num_bacterias = 8
+
+Colocando 1 bactéria:
+dia 1: x = 1 -- se dividem em 2
+...
+dia 4: x = 8 (igual que num_bacteria fornecido)
+
+> No dia 1 colocar 1 bactéria e esperar 4 dias
+
+num_bacterias = 2**4
+x = número de dias que tem que esperar
+
+Output: 1
+
+
+** Test 3 **
+num_bacterias = 536.870.911
+
+Colocando 1 bactéria:
+dia 1: x = 1
+...
+dia 29: x = 268.435.456 (2**28)
+dia 30: x = 536.870.912 (2**29) (maior que num_bacteria fornecido, parar aqui)
+
+diferença dia29_dia30 = 268435456 (mesmo número do dia 28)
+
+num_bacterias = 2**28 + 268.435.455
+
+Output: 29 
