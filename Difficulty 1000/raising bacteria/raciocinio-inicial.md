@@ -14,8 +14,8 @@ dia 2: x = 2
 dia 3: x = 4 
 dia 4: x = 8 (maior que num_bacteria fornecido, parar aqui)
 
-> No dia 1 colocar 2 bactérias e esperar 1 dia  -> num_bacterias = 4
-> No dia 2 colocar a bactéria faltante
+- No dia 1 colocar 2 bactérias e esperar 1 dia  -> num_bacterias = 4
+- No dia 2 colocar a bactéria faltante
 
 num_bacterias = 2**2 + 1
 
@@ -30,7 +30,7 @@ dia 1: x = 1 -- se dividem em 2
 ...
 dia 4: x = 8 (igual que num_bacteria fornecido)
 
-> No dia 1 colocar 1 bactéria e esperar 4 dias
+- No dia 1 colocar 1 bactéria e esperar 4 dias
 
 num_bacterias = 2**4
 x = número de dias que tem que esperar
