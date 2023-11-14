@@ -1,4 +1,4 @@
-# ProblemasdeCodeForces
+# CodeForces
 Esse repositório tem como foco a resolução de problemas do CodeForces.
 Foi criado no dia 01 de outubro de 2023, e neste momento eu tenho um conhecimento mais aprofundado somente da linguagem Python.
 Por isso, os problemas em sua totalidade serão resolvidos em Python.
