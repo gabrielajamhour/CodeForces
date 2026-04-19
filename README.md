@@ -1,5 +1,5 @@
-# CodeForces
-Esse repositório tem como foco a resolução de problemas do CodeForces.
-Foi criado no dia 01 de outubro de 2023, e neste momento eu tenho um conhecimento mais aprofundado somente da linguagem Python.
-Por isso, os problemas em sua totalidade serão resolvidos em Python.
-No entanto, tenho planos em aprofundar-me em mais linguagens, o que implicará uma mudança no repositório em um futuro próximo.
+This repository is dedicated to solving problems from Codeforces.
+
+It was created on October 1st, 2023, at a time when my strongest proficiency was in Python. For this reason, the majority of the solutions are implemented in Python.
+
+As I continue to expand my knowledge and explore new programming languages, this repository will evolve to reflect that growth, incorporating solutions in additional languages over time.
