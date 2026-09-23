@@ -10,12 +10,26 @@ I started this repository in October 2023, when Python was my strongest programm
 
 | Area | Current scope |
 |---|---:|
-| Problems solved in this repository | 57 |
+| Unique problems represented | 55 |
+| Solutions in repository | 57 |
 | Difficulty-based problems | 800–1000 |
 | Contest rounds | 7 |
 | Main language | Python |
 
-These numbers describe the contents of this repository, not my full Codeforces account history. My current Codeforces profile is available at [@paodequeijo](https://codeforces.com/profile/paodequeijo).
+Two problems have alternative solutions in both Python 3 and Java 21, so the repository contains 57 solution files for 55 unique problems.
+
+### Codeforces Profile
+
+| Metric | Result |
+|---|---:|
+| Contest rating | **846** |
+| Maximum rating | **846** |
+| Highest rank | **Newbie** |
+| Rated contests | **3** |
+| Best contest rank | **7,785** |
+| Problems solved in rated contests | **3** |
+
+My [Codeforces profile — @paodequeijo](https://codeforces.com/profile/paodequeijo) reflects my contest history. The repository itself contains a broader collection of practice problems.
 
 The repository also contains a small collection of reusable algorithm/data-structure experiments under `Models/`.
 
