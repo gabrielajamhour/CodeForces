@@ -1,5 +1,7 @@
 # Codeforces Practice
 
+[Codeforces profile — @paodequeijo](https://codeforces.com/profile/paodequeijo)
+
 A repository of my competitive programming practice, primarily written in Python.
 
 I started this repository in October 2023, when Python was my strongest programming language. It has since grown into a structured record of algorithmic problem solving, covering both difficulty-based practice and complete contest rounds.
@@ -8,10 +10,12 @@ I started this repository in October 2023, when Python was my strongest programm
 
 | Area | Current scope |
 |---|---:|
-| Python solutions | 57 |
+| Problems solved in this repository | 57 |
 | Difficulty-based problems | 800–1000 |
 | Contest rounds | 7 |
 | Main language | Python |
+
+These numbers describe the contents of this repository, not my full Codeforces account history. My current Codeforces profile is available at [@paodequeijo](https://codeforces.com/profile/paodequeijo).
 
 The repository also contains a small collection of reusable algorithm/data-structure experiments under `Models/`.
 
